@@ -1,0 +1,19 @@
+{
+  "name": "@heybeluga/node-service-base",
+  "version": "0.0.0",
+  "description": "Base files to set up Node.js backend dependencies",
+  "main": "dist/index.js",
+  "scripts": {
+    "lint": "eslint --ext .ts",
+    "fix": "pnpm lint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heybeluga/vercel-warmup.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heybeluga/vercel-warmup/issues"
+  },
+  "homepage": "https://github.com/heybeluga/vercel-warmup#readme"
+}
